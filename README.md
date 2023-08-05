@@ -1,6 +1,7 @@
 # Nettica Admin
 
-<h1><img src="https://my.nettica.com/public/nettica.png" alt="A WireGuard control plane" height="50" width="50"></h1>
+
+<h1><img src="https://dev.nettica.com/logo.png" alt="A WireGuard control plane" height="50" width="50"></h1>
 # Features
 
  * Self-hosted and web based management of wireguard networks
