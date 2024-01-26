@@ -16,3 +16,5 @@ https://github.com/nettica-com/nettica-client
 # nettica-agent
 https://github.com/nettica-com/nettica-agent
 
+# example scripts
+https://github.com/nettica-com/scripts
