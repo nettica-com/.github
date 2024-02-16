@@ -1,10 +1,10 @@
-# Nettica Github Repo
+# Nettica GitHub Repo
 
 <h1><img src="https://dev.nettica.com/logo.png" alt="A WireGuard control plane" height="100" width="100"></h1>
 
 # Features
 
- * Self-hosted and web based management of wireguard networks
+ * Self-hosted and web-based management of WireGuard networks
  * OAuth2 or Shadow file authentication
 
 # nettica-admin
