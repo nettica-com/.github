@@ -5,6 +5,7 @@
 # Features
 
  * Self-hosted and web-based management of WireGuard networks
+ * Microsoft Entra ID and Google Workspaces authentication integration
  * OAuth2 or Shadow file authentication
 
 # nettica-admin
